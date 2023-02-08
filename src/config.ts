@@ -1,4 +1,4 @@
-export default {
+export default {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
   // 填入你的OPENAI_API_KEY
   OPENAI_API_KEY: '',
   // 设置获取消息的重试次数
